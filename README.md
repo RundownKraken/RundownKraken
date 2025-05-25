@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RundownKraken
-- 👀 I’m interested in ... general software development (full-stack)
+- 👀 I’m interested in ... full-stack engineering
 - 🌱 I’m currently learning ... the basics on Codecademy
 - 💞️ I’m looking to collaborate on ... nothing yet!
 - 📫 How to reach me ... masonaugustusmarius@gmail.com
