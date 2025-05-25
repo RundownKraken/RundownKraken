@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RundownKraken
-- 👀 I’m interested in ... console modding
-- 🌱 I’m currently learning ... how to take apart hardware and put it back together
-- 💞️ I’m looking to collaborate on ... dual-booting Linux on EVERYTHING
+- 👀 I’m interested in ... general software development (full-stack)
+- 🌱 I’m currently learning ... the basics on Codecademy
+- 💞️ I’m looking to collaborate on ... nothing yet!
 - 📫 How to reach me ... masonaugustusmarius@gmail.com
 
 <!---
